@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discord Community
+    url: https://contact.haijun.my.id/
+    about: Get help, ask questions, and chat with other Haijun Code users
+  - name: 📖 Documentation
+    url: https://raw.haijun.my.id/docs/en/
+    about: Read the official documentation and guides
+  - name: 🎓 Getting Started Guide
+    url: https://raw.haijun.my.id/docs/en/quickstart
+    about: New to Haijun Code? Start here
+  - name: 🔧 Troubleshooting Guide
+    url: https://raw.haijun.my.id/docs/en/troubleshooting
+    about: Common issues and how to fix them
